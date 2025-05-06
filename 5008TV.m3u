@@ -3,8 +3,6 @@
 #EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml"
 #EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",[HD]无线新闻
 https://stream1.freetv.fun/404b85d97f8a6e611982b3347a53517b5b518a702fc8cd98354be3c5bdeba519.m3u8
-#EXTINF:-1 tvg-name="無線新聞台" tvg-id="368363" tvg-country="香港" tvg-language="粵語" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png" group-title="新聞",[HD]无线新闻
-https://stream1.freetv.fun/404b85d97f8a6e611982b3347a53517b5b518a702fc8cd98354be3c5bdeba519.m3u8
 
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="香港台",翡翠台4K
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
