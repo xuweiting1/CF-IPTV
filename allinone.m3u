@@ -17,6 +17,11 @@ http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 #EXTINF:-1 group-title="海外",凤凰资讯
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="海外",TVB J1
+http://cdn3.132.us.kg/live/j1/stream.m3u8
+#EXTINF:-1 group-title="海外",广东珠江
+http://cdn2.132.us.kg/live/gdzj/stream.m3u8
+#EXTINF:-1 group-title="海外",广东体育
+http://cdn2.132.us.kg/live/gdty/stream.m3u8
 
 
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
