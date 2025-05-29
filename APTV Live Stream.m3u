@@ -68,8 +68,6 @@ http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94
 #EXTINF:-1 tvg-name="广州竞赛" tvg-logo="https://live.fanmingming.cn/tv/广州竞赛.png" group-title="☘️广东频道",广州竞赛
 https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
 
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" http-header="Referer=https://live.kankanews.com/" group-title="卫视IPV4",五星体育
-http://148.135.93.213/live.php?id=五星体育
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰资讯
 http://148.135.93.213/phenix.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" http-user-agent="iPhone" group-title="卫视IPV4" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}",凤凰中文
@@ -78,6 +76,8 @@ http://148.135.93.213/phenix.php?id=fhzw
 http://148.135.93.213/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" group-title="卫视IPV4",香港卫视
 http://148.135.93.213/live.php?id=香港卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
+http://148.135.93.213/live.php?id=大湾区卫视
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" http-user-agent="iPhone" group-title="卫视IPV4",湖南卫视
 http://148.135.93.213/live.php?id=湖南卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视IPV4",北京卫视
@@ -138,5 +138,4 @@ http://148.135.93.213/live.php?id=重庆卫视
 http://148.135.93.213/live.php?id=黑龙江卫视
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视IPV4",海南卫视
 http://148.135.93.213/live.php?id=海南卫视
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" group-title="卫视IPV4",大湾区卫视
-http://148.135.93.213/live.php?id=大湾区卫视
+
