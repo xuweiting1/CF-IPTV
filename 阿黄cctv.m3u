@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 group-title="温馨提示"
+https://www.catvod.com/catvod.mp4
+#EXTINF:-1 group-title="央视频道",CCTV-1 综合 HD
+https://live.catvod.com/catvod_com.php?id=cctv1&token=689e129a18995171c33772259bc70374e6992cee9f591332b419ba0ff4390e1a%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-2 财经
+https://live.catvod.com/catvod_com.php?id=cctv2&token=3062b207323db06e719dc9bbcf00ec4357baf8f4708434ae1c134cfb15e441cd%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-3 综艺 HD
+https://live.catvod.com/catvod_com.php?id=cctv3&token=1170a215e39adc795269b06a5dcc3103b85d59151c6dabc253e22a1660bc9e63%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-4 中文国际
+https://live.catvod.com/catvod_com.php?id=cctv4&token=cf74a1c6aba2a3f9900eba5805551330868893d43555dd922eb943c58eb31a42%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV4 新闻台
+https://live.catvod.com/catvod_com.php?id=Cctv4&token=83b25ef20fa9f16c347e790d15aeb6ad5d393a197a143a9b027216d2ad934e67%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-5 体育频道
+https://live.catvod.com/catvod_com.php?id=cctv5&token=10771f46d440a99a5bdcad411ce991873bb9115b346ba8a6864dc7d95b4232c8%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-5+ 体育赛事 HD
+https://live.catvod.com/catvod_com.php?id=cctv5plus&token=3b71e60283c4f0d610f7a3a6a92a323dec8d36bb9c3d13c37d2a03216c84a1f9%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-6
+https://live.catvod.com/catvod_com.php?id=cctv6&token=868354a95da24b35ea850b7b9b5a87726bbc61262180833b20873c4de3cbae80%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-7 军事农业
+https://live.catvod.com/catvod_com.php?id=cctv7&token=39dbb57f3870cbd4248bf43ed250401ec4b72eb18b3d1e0449df379148ae88d1%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-8 电视剧 HD
+https://live.catvod.com/catvod_com.php?id=cctv8hd&token=de09d404c34a68e2aff02ae303bbde981b5a20b544f96477da86f49b1847ec20%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-9 记录 HD
+https://live.catvod.com/catvod_com.php?id=cctv9hd&token=1af9749187be9bd4166642c2a01764fad50162f88d5f426790316cdcc81e1b39%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-10 科教 HD
+https://live.catvod.com/catvod_com.php?id=cctv10hd&token=d9f1bf52419880d488c8fbae8544266527fd676daaec8c967dd7b65f4c3df347%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-11 戏曲
+https://live.catvod.com/catvod_com.php?id=cctv11&token=9c278912a34199a057bf9fed1c9e53f47ffd9dce0b2de820e2a8a61cbdd8368b%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-12 社会与法
+https://live.catvod.com/catvod_com.php?id=cctv12&token=136ee2e6587f177b1b04bf77b23971fe30528c4060c95906fdd7f0102ec32ab9%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-13 新闻频道
+https://live.catvod.com/catvod_com.php?id=cctv13&token=72b6ff2352d2426d4075466eeafd5889ed22139fa8f9fafbe8b3c164ee675e4d%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-14 少儿
+https://live.catvod.com/catvod_com.php?id=cctv14&token=198ad029015c9847cb160bbe28f1ae0f96be762e2e1510464580a26e60b34225%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="央视频道",CCTV-15 音乐
+https://live.catvod.com/catvod_com.php?id=cctv15&token=039dca4347529d830e20721c78cb917d4a8c3d3989fda2bde1f8fa0ab586a833%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",湖南卫视
+https://live.catvod.com/catvod_com.php?id=hunan_twn&token=31e139642a21ea24fc00508a8b7dad79083bf96f523c3f9fbab1c471a92fd7fb%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",浙江卫视
+https://live.catvod.com/catvod_com.php?id=zhejiang_twn&token=8ceebaf873a9079e639497123b36f4389f363a2d55ab159768ef647f2e60847f%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",江苏卫视
+https://live.catvod.com/catvod_com.php?id=jiangsu_twn&token=eefeb0770074f8b783e1bfd09676a670a7944cd9adbaa2317db5532cf069a6f2%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",深圳卫视
+https://live.catvod.com/catvod_com.php?id=shenzhen&token=c60b056bedcf888733ad9188747a700936bed7382b9a259afbebc5c6df890d93%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",福建东南卫视
+https://live.catvod.com/catvod_com.php?id=fujian&token=98e0ec85acb46bde5adb9735fccb940f495554fa553367fb35a04201cf757870%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",广东南方卫视
+https://live.catvod.com/catvod_com.php?id=nanfang_twn&token=0bab40b8dee22eab4fbd3079511e583e8784ab11f0a78e8679bb93e572fe8256%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",广东卫视
+https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn&token=eba70c7f9fc4288c398d206de7bc6b03b51f0457bad1727094519cfa64fd443f%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",北京卫视
+https://live.catvod.com/catvod_com.php?id=beijing&token=ab1b56bc739d9d3864aade9c342bf0ba08290627a55dcb097fec2e5838c23958%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",珠江台
+https://live.catvod.com/catvod_com.php?id=zhujiang&token=38dbd3c1aad9835e59207b50825a415406e8aec0cd7cba7f3b68c90c03a2dcd3%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",广西卫视
+https://live.catvod.com/catvod_com.php?id=guangxi&token=0bb344d199cd984bddb1ba8dfcf8555a807916e54cc3255cb0e14d9301d32ef5%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",湖北卫视
+https://live.catvod.com/catvod_com.php?id=hubei&token=125e6bacde163976985571eb63fca6591302a85a41765718a442fa028c755b4c%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",四川卫视
+https://live.catvod.com/catvod_com.php?id=sichuan_twn&token=14ed232e1f34c4e581b23d3c7e4e6f5c4e46e2e060d9825136bd80af19867996%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",东方卫视
+https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn&token=2edd813c8a1acb83956e8bfe55b81c2f8f2ecea67363bf5ed2fc0c8daf2e96fa%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
+#EXTINF:-1 group-title="卫视频道",CGTN
+https://live.catvod.com/catvod_com.php?id=CGTN&token=ddc70bd6689256bd2d4d01a328c31e894cbd4da4d3d7dc5e057233fb6c72ed72%3A1759656052%3AMjQwOTo4YTU1OjE0NWM6MmVkMDozODFhOmYyNWI6NmNjMjo3NmIx
